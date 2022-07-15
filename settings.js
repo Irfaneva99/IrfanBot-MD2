@@ -62,7 +62,7 @@ global.location = "Indonesia, Jatim, Probolinggo" //ur location
 
 //bot bomdy 
 global.owner = ['6289510497533']
-global.ownertag = '6289510497533' //ur tag number
+global.ownertag = 'ipan' //ur tag number
 global.botname = 'IrfanBot-MD2' //ur bot name
 global.linkz = "https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A" //ur website to be displayed
